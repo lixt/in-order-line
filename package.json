@@ -1,13 +1,13 @@
 {
-  "name": "inorder-line",
+  "name": "in-order-line",
   "version": "0.0.1",
-  "description": "An in-order line-by-line stream transformer.",
+  "description": "An in-order line-by-line string stream transformer.",
   "main": "index.js",
-  "homepage": "https://github.com/lixt/inorder-line",
+  "homepage": "https://github.com/lixt/in-order-line",
   "repository": {
     "type": "git",
-    "url": "git@github.com:lixt/inorder-line.git",
-    "web": "https://github.com/lixt/inorder-line.git"
+    "url": "git@github.com:lixt/in-order-line.git",
+    "web": "https://github.com/lixt/in-order-line.git"
   },
   "keywords": [
     "line",
@@ -31,10 +31,5 @@
     }
   ],
   "license": "MIT",
-  "devDependencies": {
-
-  },
-  "dependencies": {
-
-  }
+  "dependencies": {}
 }
