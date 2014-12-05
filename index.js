@@ -1,1 +1,1 @@
-module.exports = require('./lib/inorder-line');
+module.exports = require('./lib/in-order-line');
